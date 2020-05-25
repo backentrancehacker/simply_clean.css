@@ -1,0 +1,24 @@
+{
+  "name": "simply_clean.css",
+  "version": "1.0.1",
+  "description": "A simple css library to make most elements look decent on static pages. It is not intended for any large projects.",
+  "main": "style.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/backentrancehacker/clean.css.git"
+  },
+  "keywords": [
+    "css",
+    "easy",
+    "classless"
+  ],
+  "author": "AdCharity",
+  "license": "SEE LICENSE IN LICENSE.md",
+  "bugs": {
+    "url": "https://github.com/backentrancehacker/clean.css/issues"
+  },
+  "homepage": "https://github.com/backentrancehacker/clean.css#readme"
+}
