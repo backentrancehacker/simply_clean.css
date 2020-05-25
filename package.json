@@ -1,6 +1,6 @@
 {
   "name": "simply_clean.css",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A simple css library to make most elements look decent on static pages. It is not intended for any large projects.",
   "main": "style.css",
   "scripts": {
@@ -10,6 +10,9 @@
     "type": "git",
     "url": "git+https://github.com/backentrancehacker/clean.css.git"
   },
+  "files" : [
+	  "style.css"
+  ],
   "keywords": [
     "css",
     "easy",
