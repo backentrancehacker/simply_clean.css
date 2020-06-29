@@ -1,6 +1,6 @@
 {
   "name": "simply_clean.css",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "A simple css library to make most elements look decent on static pages. It is not intended for any large projects.",
   "main": "style.css",
   "scripts": {
