@@ -1,4 +1,4 @@
-Copyright 2020 AdCharity
+Copyright 2020 Nathan Pham <nathanpham.me@gmail.com>
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
