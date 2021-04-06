@@ -11,14 +11,14 @@
     "url": "git+https://github.com/backentrancehacker/clean.css.git"
   },
   "files" : [
-	  "style.css"
+	  "lib/style.css"
   ],
   "keywords": [
     "css",
     "easy",
     "classless"
   ],
-  "author": "AdCharity",
+  "author": "Nathan Pham",
   "license": "SEE LICENSE IN LICENSE.md",
   "bugs": {
     "url": "https://github.com/backentrancehacker/clean.css/issues"
