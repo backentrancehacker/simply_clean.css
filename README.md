@@ -1,4 +1,4 @@
-# simply-clean.css
+# simply-clean
 A classless CSS library built to make static pages look slightly better.
 
 ## Installation
